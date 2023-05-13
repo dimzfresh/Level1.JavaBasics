@@ -8,5 +8,6 @@ public final class JavaBasics {
         System.out.println("Сколько лет вашему другу?");
         int age = scanner.nextInt();
         System.out.println("Моему другу " + name + " сейчас " + age + " лет");
+        scanner.close();
     }
 }
