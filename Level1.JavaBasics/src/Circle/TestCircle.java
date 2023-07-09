@@ -1,4 +1,4 @@
-package circle;
+package Circle;
 
 public class TestCircle {
 
